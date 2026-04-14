@@ -27,7 +27,6 @@ A community-driven resource platform. Refinery matrices. Player profiles. Locati
  
 **→ [Live at yugen.up.railway.app](https://yugen.up.railway.app)**
  
-**→ [Repository](https://github.com/FernLives/yugen)** — 50+ commits since April 8. Still shipping, still refining.
  
 ---
  
