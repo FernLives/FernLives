@@ -102,7 +102,7 @@ I'm looking for:
 - Opportunities to push minimalism further
 - Collaboration with people who sweat the details
  
-**Reach me:** [GitHub](https://github.com/FernLives) · [Yugen](https://yugen.up.railway.app)
+**Reach me:** sultan.albalushii@icloud.com
  
 ---
  
