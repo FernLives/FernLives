@@ -26,7 +26,8 @@ A community-driven resource platform. Refinery matrices. Player profiles. Locati
 - **Architecture that supports vision.** React. TypeScript. Design systems. No boilerplate. Everything in service of how it *feels*.
  
 **→ [Live at yugen.up.railway.app](https://yugen.up.railway.app)**
- 
+
+**→ [Repository](https://github.com/FernLives/Yugen)**
  
 ---
  
