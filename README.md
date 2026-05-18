@@ -58,9 +58,5 @@ i'm just learning, experimenting, and making things real one idea at a time.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernLives&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernLives&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <sub>still learning · still experimenting · still making weird little ideas real</sub>
 </p>
